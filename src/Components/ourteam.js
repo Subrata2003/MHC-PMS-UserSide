@@ -77,7 +77,7 @@ function OurTeam() {
               </div>
               <div className="team-info">
                 <div className="team-info-comntent">
-                  <h4 className="title">Dr. Rajendra Patel</h4>
+                  <h4 className="title">Dr. Bablu Bodmas</h4>
                   <span className="text-secondary">Psychiatrist</span>
                 </div>
                 <ul className="social-media">
