@@ -52,7 +52,7 @@ function Service() {
                 </div>
 
                 <div className="icon-content">
-                  <h3 className="ttr-title">Operations</h3>
+                  <h3 className="ttr-title">Drug Therapy</h3>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ function Service() {
                 </div>
 
                 <div className="icon-content">
-                  <h3 className="ttr-title">Surgery</h3>
+                  <h3 className="ttr-title">Behavioral therapy</h3>
                 </div>
               </div>
             </div>
@@ -78,7 +78,7 @@ function Service() {
                 </div>
 
                 <div className="icon-content">
-                  <h3 className="ttr-title">Vaccine</h3>
+                  <h3 className="ttr-title">Supportive psychotherapy</h3>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@ function Service() {
                 </div>
 
                 <div className="icon-content">
-                  <h3 className="ttr-title">Emergency</h3>
+                  <h3 className="ttr-title">Psychodynamic psychotherapy</h3>
                 </div>
               </div>
             </div>
@@ -104,7 +104,7 @@ function Service() {
                 </div>
 
                 <div className="icon-content">
-                  <h3 className="ttr-title">Diagnostics</h3>
+                  <h3 className="ttr-title">Psychoanalysis</h3>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@ function Service() {
                 </div>
 
                 <div className="icon-content">
-                  <h3 className="ttr-title">Treatment</h3>
+                  <h3 className="ttr-title">Interpersonal therapy</h3>
                 </div>
               </div>
             </div>

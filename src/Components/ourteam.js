@@ -47,7 +47,7 @@ function OurTeam() {
               </div>
               <div className="team-info">
                 <div className="team-info-comntent">
-                  <h4 className="title">Dr. Bhupender Jogi</h4>
+                  <h4 className="title">Dr. Subham Mehta</h4>
                   <span className="text-secondary">Psychologist</span>
                 </div>
                 <ul className="social-media">
@@ -77,7 +77,7 @@ function OurTeam() {
               </div>
               <div className="team-info">
                 <div className="team-info-comntent">
-                  <h4 className="title">Dr. Bablu Bodmas</h4>
+                  <h4 className="title">Dr. Soumitra Konar</h4>
                   <span className="text-secondary">Psychiatrist</span>
                 </div>
                 <ul className="social-media">
@@ -108,7 +108,7 @@ function OurTeam() {
               <div className="team-info">
                 <div className="team-info-comntent">
                   <h4 className="title">Dr. Salman Ajani</h4>
-                  <span className="text-secondary">Neurologist</span>
+                  <span className="text-secondary">Licensed professional counselor</span>
                 </div>
                 <ul className="social-media">
                   <li>
@@ -142,7 +142,7 @@ function OurTeam() {
               <div className="team-info">
                 <div className="team-info-comntent">
                   <h4 className="title">Dr. Addition Smith</h4>
-                  <span className="text-secondary">Physiotherapist</span>
+                  <span className="text-secondary">Psychoanalyst</span>
                 </div>
                 <ul className="social-media">
                   <li>
@@ -172,7 +172,7 @@ function OurTeam() {
               <div className="team-info">
                 <div className="team-info-comntent">
                   <h4 className="title">Dr. Mahfuz Riad</h4>
-                  <span className="text-secondary">ENT</span>
+                  <span className="text-secondary">Neurologist</span>
                 </div>
                 <ul className="social-media">
                   <li>
